@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e69ae15e-0cde-4576-bc39-4d8900c1e174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BoxRef.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/villagers/VillagerAvatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/villagers/TierList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/villagers/VillagerAvatarDraggable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/villagers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/hooks/useMoveToTier.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/hooks/useReorder.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/villagers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sagas/villagers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/selectors/villagers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/types/villagers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/DragItem.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Tier.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Villager.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/shared.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/compareOrder.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/consts/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/consts/dnd.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/delay.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1plrZNtXX5wqAJDFoLXgiLj70iA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/types" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69ae15e-0cde-4576-bc39-4d8900c1e174" name="Default Changelist" comment="" />
+      <created>1615768573224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615768573224</updated>
+      <workItem from="1615768595528" duration="43022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="147" key="SettingsEditor" timestamp="1615864204610">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="538" y="147" key="SettingsEditor/0.25.1680.973@0.25.1680.973" timestamp="1615864204610" />
+    <state x="730" y="234" key="run.anything.popup" timestamp="1615866264293">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="730" y="234" key="run.anything.popup/0.25.1680.973@0.25.1680.973" timestamp="1615866264293" />
+    <state x="683" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1615945665634">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="683" y="239" width="670" height="676" key="search.everywhere.popup/0.25.1680.973@0.25.1680.973" timestamp="1615945665634" />
+  </component>
+</project>

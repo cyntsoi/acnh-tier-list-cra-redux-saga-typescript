@@ -1,0 +1,1 @@
+export const VILLAGER_AVATAR = "VILLAGER_AVATAR"
